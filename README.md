@@ -184,4 +184,4 @@ This repository serves as the official landing page for 21143 PCICardBus LAN Con
 **Get the most recent version of 21143 PCICardBus LAN Controller Driver today!**
 
 ---
-**Last updated:** 2026-11-12 21:45:03 UTC
+**Last updated:** 2026-11-13 02:25:05 UTC
